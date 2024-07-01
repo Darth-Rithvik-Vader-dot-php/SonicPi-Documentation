@@ -1,5 +1,8 @@
 The Sonic Pi Interface 
-Sonic Pi has a very simple interface for coding music. Let’s spend a little time exploring it. 
+Sonic Pi has a very sim
+ple interface for coding music. Let’s spend a little time exploring it.
+
+<img width="657" alt="Screenshot 2024-06-30 at 11 43 36 PM" src="https://github.com/Darth-Rithvik-Vader-dot-php/SonicPi-Documentation/assets/144507773/b57d1b2f-996e-48d6-a0b4-8ae185891e76">
 
 A - Play Controls 
 B - Editor Controls 
