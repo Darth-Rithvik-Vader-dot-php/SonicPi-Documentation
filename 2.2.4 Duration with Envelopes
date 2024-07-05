@@ -1,4 +1,5 @@
-Duration with Envelopes 
+Duration with Envelopes
+
 In an earlier section, we looked at how we can use the sleep command to control when to trigger our sounds. However, we haven’t yet been able to control the duration of our sounds. 
 In order to give us a simple, yet powerful means of controlling the duration of our sounds, Sonic Pi provides the notion of an ADSR amplitude envelope (we’ll cover what ADSR means later in this section). An amplitude envelope offers two useful aspects of control: 
 control over the duration of a sound 
